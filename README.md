@@ -2,6 +2,7 @@
 Here I am mentioning all the topics of CCNA course. Source is "https://learningnetwork.cisco.com/"
 
 **Network Fundamentals 20%**
+
 1.1 Explain the role and function of network components
 1.1.a Routers
 1.1.b Layer 2 and Layer 3 switches
@@ -56,6 +57,7 @@ Here I am mentioning all the topics of CCNA course. Source is "https://learningn
 1.13.c Frame flooding
 1.13.d MAC address table
 **Network Access 20%**
+
 ANs (normal range) spanning multiple switches
 2.1.a Access ports (data and voice)
 2.1.b Default VLAN
@@ -83,6 +85,7 @@ ANs (normal range) spanning multiple switches
 
 2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings
 **IP Connectivity 25%**
+
 3.1 Interpret the components of routing table
 3.1.a Routing protocol code
 3.1.b Prefix
@@ -110,7 +113,9 @@ ANs (normal range) spanning multiple switches
 3.4.d Router ID
 
 3.5 Describe the purpose, functions, and concepts of first hop redundancy protocols
+
 **IP Services 10%**
+
 Configure and verify inside source NAT using static and pools
 
 4.2 Configure and verify NTP operating in a client and server mode
@@ -128,7 +133,9 @@ Configure and verify inside source NAT using static and pools
 4.8 Configure network devices for remote access using SSH
 
 4.9 Describe the capabilities and functions of TFTP/FTP in the network
+
 **Security Fundamentals 15%**
+
 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)
 
 5.2 Describe security program elements (user awareness, training, and physical access control)
@@ -148,7 +155,9 @@ Define key security concepts (threats, vulnerabilities, exploits, and mitigation
 5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)
 
 5.10 Configure and verify WLAN within the GUI using WPA2 PSK
+
 **Automation and Programability 10%**
+
 6.1 Explain how automation impacts network management
 
 6.2 Compare traditional networks with controller-based networking
